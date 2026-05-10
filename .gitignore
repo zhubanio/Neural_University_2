@@ -1,3 +1,5 @@
 .idea/
 .venv/
 data/
+saved_bert_model/
+saved_distilbert_model/
